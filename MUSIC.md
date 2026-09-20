@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/visuals/music-hero.svg" alt="SafeStack Sound Archive" width="100%">
+</p>
+
 # SafeStack YouTube Music Catalogue
 
 Public music links collected from the [A B (SafeStack)](https://www.youtube.com/@antoskegreitas3076) channel and its [SafeStack playlist](https://www.youtube.com/playlist?list=PLFbahqqG-AmJlT2uLLWKLiirGwqEe1H2b).
